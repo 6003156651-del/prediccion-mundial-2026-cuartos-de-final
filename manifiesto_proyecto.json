@@ -1,0 +1,22 @@
+{
+    "proyecto": "Prediccion Mundial 2026 - Cuartos de Final",
+    "fase": "Cuartos de Final",
+    "fecha_auditoria": "2026-07-09T01:29:25",
+    "metodo_final": "SIMETRIZADO",
+    "criterio_seleccion": "Menor MAE global en validacion historica",
+    "mae_original_global": 1.015667,
+    "mae_simetrizado_global": 1.009608,
+    "partidos_finales": 4,
+    "graficas_finales": 19,
+    "matrices_finales": 4,
+    "errores_probabilisticos": 0,
+    "diferencias_bloque_8_9": 0,
+    "errores_top_3": 0,
+    "errores_suma_csv": 0,
+    "coincidencia_csv_memoria": true,
+    "total_archivos_auditados": 117,
+    "archivos_vacios_totales": 1,
+    "archivos_vacios_permitidos": 1,
+    "archivos_vacios_invalidos": 0,
+    "estado": "VALIDADO"
+}

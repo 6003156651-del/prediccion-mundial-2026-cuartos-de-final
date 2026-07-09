@@ -1,0 +1,32 @@
+AUDITORÍA FINAL DEL PROYECTO
+PREDICCIÓN MUNDIAL 2026 - CUARTOS DE FINAL
+===========================================================================
+
+Fecha de auditoría: 2026-07-09T01:29:25
+
+MODELO FINAL
+---------------------------------------------------------------------------
+Método seleccionado: SIMETRIZADO
+MAE global original: 1.0157
+MAE global simetrizado: 1.0096
+
+RESULTADOS DE AUDITORÍA
+---------------------------------------------------------------------------
+Partidos finales: 4
+Gráficas finales: 19
+Matrices finales: 4
+Errores probabilísticos: 0
+Diferencias Bloque 8 / Bloque 9: 0
+Errores Top 3: 0
+Errores suma CSV: 0
+Coincidencia memoria / CSV: True
+Archivos vacíos permitidos: 1
+Archivos vacíos inválidos: 0
+
+CONCLUSIÓN
+---------------------------------------------------------------------------
+El proyecto superó las validaciones automáticas de consistencia probabilística, coincidencia de resultados, Top 3 de marcadores, matrices de probabilidad y archivos de presentación final.
+
+Las predicciones finales fueron generadas por el método seleccionado automáticamente mediante el criterio de menor MAE global en validación histórica.
+
+ESTADO FINAL: PROYECTO VALIDADO
